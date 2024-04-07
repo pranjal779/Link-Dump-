@@ -40,3 +40,5 @@
 [Generating random number list in Python](https://www.tutorialspoint.com/generating-random-number-list-in-python)
 
 [ETL Tools](https://www.datacamp.com/blog/a-list-of-the-16-best-etl-tools-and-why-to-choose-them)
+
+[Top 40 Coding Interview Questions You Should Know](https://www.simplilearn.com/coding-interview-questions-article)
