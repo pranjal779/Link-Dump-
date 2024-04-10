@@ -7,3 +7,17 @@ Question #1: Days At Number One (PostgreSQL)
 If the region 'US' appears in dataset, it should be included in the worldwide ranking.”
 
 [SQL and Python Interview Questions for Data Analysts](https://www.kdnuggets.com/2023/02/sql-python-interview-questions-data-analysts.html)
+Technical Concepts
+ 
+
+This problem requires you to know the following SQL concepts:
+
+Data Aggregation  
+Subqueries  
+CASE Statement  
+Window Functions  
+JOINs  
+Filtering Data  
+Grouping Data  
+Sorting Data  
+These are also concepts that you’ll use most often as a data analyst.  
