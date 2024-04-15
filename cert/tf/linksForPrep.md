@@ -3,3 +3,6 @@ Cert course: [HashiCorp Certified: Terraform Associate 2024](https://github.com/
 
 
 [28 Real-Time Terraform Interview Questions and Answers](https://geekflare.com/terraform-interview-questions-and-answers/)
+
+[Rishab's Notes](https://rishabkumar.com/notes/)
+[I passed the Terraform Associate Certification! - Caroline Chiari](https://www.youtube.com/watch?v=7a3g6_IKD_4&ab_channel=CarolineChiari)
