@@ -6,3 +6,5 @@ Providers/hashicorp/aws/V5.46.0/Latest Version
 [Resource: aws_security_group_rule/V5.39.1/](https://registry.terraform.io/providers/hashicorp/aws/5.39.1/docs/resources/security_group_rule.html)
 
 [Data Source: aws_security_group](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/data-sources/security_group)
+
+[AWS Provider](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
