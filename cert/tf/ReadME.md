@@ -24,3 +24,8 @@ Providers/hashicorp/aws/V5.46.0/Latest Version
 [Resource: aws_security_group](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/security_group)
 
 [Resource: aws_security_group_rule](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/security_group_rule)
+
+(5/8/24)
+[Local Values](https://developer.hashicorp.com/terraform/language/values/locals)
+
+[Declaring a Local Value](https://developer.hashicorp.com/terraform/language/values/locals#declaring-a-local-value)
