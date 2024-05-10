@@ -44,3 +44,5 @@
 [Top 40 Coding Interview Questions You Should Know](https://www.simplilearn.com/coding-interview-questions-article)
 
 [Shittu explains how SSH works, its features, config details, and more](https://x.com/freeCodeCamp/status/1788933008822600123)
+
+[Master Behavioral Interviews (for Software Engineers)](https://www.youtube.com/watch?v=8hpSMnCwCxY&ab_channel=freeCodeCamp.org)
