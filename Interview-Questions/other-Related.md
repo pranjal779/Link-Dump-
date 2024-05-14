@@ -1,0 +1,1 @@
+[Interview IaC kafka redhat sattlelite ci/cd](https://www.redhat.com/en/blog/modern-continuous-integration-continuous-delivery-ci-cd-pipeline-for-traditional-provisioning-your-questions-answered-part-2)
