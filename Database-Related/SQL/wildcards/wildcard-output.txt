@@ -1,0 +1,116 @@
+mysql> tee C:\Users\pranj\Desktop\my code\SQL\wildcard-output.txt
+Logging to file 'C:\Users\pranj\Desktop\my code\SQL\wildcard-output.txt'
+mysql> source C:\Users\pranj\Desktop\my code\SQL/sqlWildcards.sql
+Database changed
++------------+----------------+---------------------+-----------------------------------------------------+--------------+----------------------+----------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| Date       | State          | Lokshabha_Seat_Name | Incident_Description                                | Action_Taken | Location_of_Incident | Coordinates          | Source_news_article                                                                                                                  |
++------------+----------------+---------------------+-----------------------------------------------------+--------------+----------------------+----------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| 2024-05-07 | Madhya Pradesh | Bhopal              | Voting successfull                                  | Nothing      | NULL                 | NULL                 | Republic Bharat                                                                                                                      |
+| 2024-05-07 | Madhya Pradesh | Betul               | Voting successfull                                  | Nothing      | NULL                 | NULL                 | Republic Bharat                                                                                                                      |
+| 2024-05-07 | Madhya Pradesh | Jabalpur            | Voting successfull                                  | Nothing      | NULL                 | NULL                 | Republic Bharat                                                                                                                      |
+| 2024-05-07 | Madhya Pradesh | Harda               | Taking unauthorized person inside voting area (BJP) | Legal Case   | NULL                 | NULL                 | Cong MLA leader in MP booked for taking kin inside polling booths on voting day | India News - The Indian Express                    |
+| 2024-05-07 | Madhya Pradesh | Bhopal              | Unauthorized recording of vote in voting area       | Arrested     | Berasia              | 23.621734, 77.445985 | APP man booked as video shows his minor son casting vote; poll officer suspended in Madhya Pradesh | India News - The Indian Express |
++------------+----------------+---------------------+-----------------------------------------------------+--------------+----------------------+----------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+5 rows in set (0.00 sec)
+
++------------+----------------+---------------------+-----------------------------------------------------------+-------------------------+----------------------+---------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
+| Date       | State          | Lokshabha_Seat_Name | Incident_Description                                      | Action_Taken            | Location_of_Incident | Coordinates                           | Source_news_article                                                                                                                      |
++------------+----------------+---------------------+-----------------------------------------------------------+-------------------------+----------------------+---------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
+| 2024-04-19 | Manipur        | Inner Manipur       | Alleged Irregularties                                     | Voting Station Shutdown | Thongju              | 24.757850044919493, 93.93944606626353 | Polling station shut in Manipur's Imphal after women alleged irregularities - India Today                                                |
+| 2024-05-07 | Madhya Pradesh | Jabalpur            | Voting successfull                                        | Nothing                 | NULL                 | NULL                                  | Republic Bharat                                                                                                                          |
+| 2024-06-01 | West Bengal    | Jadavpur            | Supporters Clash                                          | NULL                    | Bhangur              | 22.512159273751127, 88.60941410449847 | Video: Cops seen chasing crowd after violence in Bengal during final phase voting - India Today                                          |
+| 2024-06-01 | West Bengal    | Mathurapur          | Supporters Clash                                          | Repolling               | NULL                 | NULL                                  | Election Commission orders repolling in two booths in West Bengal | Lok Sabha Elections News - Business Standard (business-standard.com) |
+| 2024-06-01 | West Bengal    | Mathurapur          | Malpractices at booth against APP option on EVM and other | Repolling               | Kakdwip              | 21.873534514256395, 88.18802820210271 | Election Commission Orders Repolling in Two West Bengal Booths Following Allegations of Malpractices | - Times of India (indiatimes.com) |
+| 2024-06-01 | West Bengal    | Jadavpur            | Crude bomb throwing                                       | NULL                    | Bhangar              | NULL                                  | https://www.thehindu.com/elections/lok-sabha/phase-7-polls-west-bengal-violence-june-1-2024/article68238692.ece                          |
++------------+----------------+---------------------+-----------------------------------------------------------+-------------------------+----------------------+---------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
+6 rows in set (0.00 sec)
+
++---------------------+
+| Lokshabha_Seat_Name |
++---------------------+
+| Inner Manipur       |
+| Jabalpur            |
+| Jadavpur            |
+| Mathurapur          |
+| Mathurapur          |
+| Jadavpur            |
++---------------------+
+6 rows in set (0.00 sec)
+
++------------+----------------+---------------------+-----------------------------------------------+--------------+----------------------+----------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| Date       | State          | Lokshabha_Seat_Name | Incident_Description                          | Action_Taken | Location_of_Incident | Coordinates          | Source_news_article                                                                                                                  |
++------------+----------------+---------------------+-----------------------------------------------+--------------+----------------------+----------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| 2024-05-07 | Madhya Pradesh | Bhopal              | Voting successfull                            | Nothing      | NULL                 | NULL                 | Republic Bharat                                                                                                                      |
+| 2024-05-07 | Madhya Pradesh | Bhopal              | Unauthorized recording of vote in voting area | Arrested     | Berasia              | 23.621734, 77.445985 | APP man booked as video shows his minor son casting vote; poll officer suspended in Madhya Pradesh | India News - The Indian Express |
++------------+----------------+---------------------+-----------------------------------------------+--------------+----------------------+----------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+2 rows in set (0.00 sec)
+
++---------------------+
+| Lokshabha_Seat_Name |
++---------------------+
+| North East Delhi    |
++---------------------+
+1 row in set (0.00 sec)
+
++---------------------+
+| Lokshabha_Seat_Name |
++---------------------+
+| Jabalpur            |
+| Jadavpur            |
+| Jadavpur            |
++---------------------+
+3 rows in set (0.00 sec)
+
+Empty set (0.00 sec)
+
+Empty set (0.00 sec)
+
++---------------------+
+| Lokshabha_Seat_Name |
++---------------------+
+| Jabalpur            |
++---------------------+
+1 row in set (0.00 sec)
+
++----------------+
+| State          |
++----------------+
+| Rajasthan      |
+| Gujrat         |
+| Madhya Pradesh |
+| Madhya Pradesh |
+| Uttar Pradesh  |
+| Uttar Pradesh  |
+| Uttar Pradesh  |
+| Uttar Pradesh  |
+| Uttar Pradesh  |
+| West Bengal    |
+| NULL           |
+| West Bengal    |
+| West Bengal    |
+| West Bengal    |
+| West Bengal    |
+| West Bengal    |
+| West Bengal    |
+| West Bengal    |
++----------------+
+18 rows in set (0.00 sec)
+
++---------------------+
+| Lokshabha_Seat_Name |
++---------------------+
+| Jabalpur            |
++---------------------+
+1 row in set (0.00 sec)
+
+Query OK, 0 rows affected (0.00 sec)
+
+Query OK, 0 rows affected (0.00 sec)
+
+ERROR 1146 (42S02): Table 'election_data.customers' doesn't exist
+Query OK, 0 rows affected (0.00 sec)
+
+Query OK, 0 rows affected (0.00 sec)
+
+ERROR 1146 (42S02): Table 'election_data.customers' doesn't exist
+mysql> notee
