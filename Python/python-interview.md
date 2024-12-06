@@ -3,3 +3,6 @@
 [Top Python Data Structures Interview Questions and Answers for Practice](https://www.interviewkickstart.com/blogs/interview-questions/python-data-structures-interview-questions)  
 by Abhinav Rawat on Oct 09, 2024  
 
+[55+ Data Structure Interview Questions](https://www.interviewkickstart.com/blogs/interview-questions/data-structure-interview-questions)  
+Abhinav Rawat on Sep 25, 2024  
+
