@@ -6,3 +6,4 @@ by Abhinav Rawat on Oct 09, 2024
 [55+ Data Structure Interview Questions](https://www.interviewkickstart.com/blogs/interview-questions/data-structure-interview-questions)  
 Abhinav Rawat on Sep 25, 2024  
 
+[Data Structure Interview Questions - InterviewBit](https://www.interviewbit.com/data-structure-interview-questions/)  
