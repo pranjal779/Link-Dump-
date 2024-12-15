@@ -7,3 +7,6 @@ by Abhinav Rawat on Oct 09, 2024
 Abhinav Rawat on Sep 25, 2024  
 
 [Data Structure Interview Questions - InterviewBit](https://www.interviewbit.com/data-structure-interview-questions/)  
+
+
+[Python Coding Interview Prep/Python Coding Interview Questions (Beginner to Advanced).md](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python%20Coding%20Interview%20Questions%20(Beginner%20to%20Advanced).md)
