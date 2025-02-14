@@ -3,3 +3,4 @@
 [53 Terraform Interview Questions and Answers](https://zerotomastery.io/blog/terraform-interview-questions/)  
 [VMware vSphere Best Practices](https://www.simplilearn.com/vmware-vsphere-best-practices-rar339-article)  
 [Terraform Scenario based Interview Questions](https://cloudchamp.notion.site/Terraform-Scenario-based-Interview-Questions-bce29cb359b243b4a1ab3191418bfaab)
+[Terraform Interview ( Mock Interview )](https://www.youtube.com/watch?v=pCoCynze4Ag&ab_channel=DeekshithSN)
