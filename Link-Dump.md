@@ -41,6 +41,8 @@
 
 [ETL Tools](https://www.datacamp.com/blog/a-list-of-the-16-best-etl-tools-and-why-to-choose-them)
 
+[ELK stack](https://elastic-stack.readthedocs.io/en/latest/introduction.html)
+
 [Top 40 Coding Interview Questions You Should Know](https://www.simplilearn.com/coding-interview-questions-article)
 
 [Shittu explains how SSH works, its features, config details, and more](https://x.com/freeCodeCamp/status/1788933008822600123)
