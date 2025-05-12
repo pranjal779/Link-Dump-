@@ -39,3 +39,29 @@ https://x.com/techyoutbe/status/1921533391695987003
 https://x.com/thatstraw/status/1921479683339661519
 https://x.com/systemdesignone/status/1921181025079558405
 https://x.com/Python_Dv/status/1921297439958688118
+
+
+
+-------------------
+
+Coding links:
+DSA cheat sheet and books
+1. Introduction to Algorithms 4th Edition by Thomas H. Corman - https://buff.ly/42FBWtm
+2. Grokking Algorithms 2nd Edition by Aditya Bhargava - https://buff.ly/4jIGeWQ
+3. Algorithms by Robert Sedgewick & Kevin Wayne - https://buff.ly/4jHDDwo
+
+https://x.com/javinpaul/status/1921072986536218686
+https://x.com/techyoutbe/status/1921271212975571434
+https://x.com/Python_Dv/status/1921251638163173813
+https://x.com/freeCodeCamp/status/1921596998144172354
+https://x.com/techyoutbe/status/1921300772974694858
+https://x.com/theskilledcoder/status/1921216269983912038
+https://x.com/theskilledcoder/status/1921571564576743515
+https://x.com/theskilledcoder/status/1921059923909079140
+https://x.com/python_spaces/status/1921577120054001709
+https://x.com/alexxubyte/status/1921595093477458212
+https://x.com/mdancho84/status/1921527298135654720
+https://x.com/python_spaces/status/1921623214448365730
+https://threadreaderapp.com/thread/1921527298135654720.html
+https://x.com/0xluffyb/status/1921493254421307740
+
