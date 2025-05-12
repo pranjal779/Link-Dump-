@@ -65,3 +65,10 @@ https://x.com/python_spaces/status/1921623214448365730
 https://threadreaderapp.com/thread/1921527298135654720.html
 https://x.com/0xluffyb/status/1921493254421307740
 
+-----------
+
+https://x.com/manishkumar_dev/status/1804860058439954632
+https://x.com/manishkumar_dev/status/1831198824544731300
+https://x.com/swapnakpanda/status/1921887112716021783
+
+------------
