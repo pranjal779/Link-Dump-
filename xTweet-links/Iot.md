@@ -72,3 +72,7 @@ https://x.com/manishkumar_dev/status/1831198824544731300
 https://x.com/swapnakpanda/status/1921887112716021783
 
 ------------
+
+https://www.youtube.com/watch?v=cMVcclMkp7g
+https://x.com/techopsexamples/status/1918524374552047877
+----------------
