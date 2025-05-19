@@ -76,3 +76,12 @@ https://x.com/swapnakpanda/status/1921887112716021783
 https://www.youtube.com/watch?v=cMVcclMkp7g
 https://x.com/techopsexamples/status/1918524374552047877
 ----------------
+https://x.com/mdancho84/status/1923337208477503764
+https://x.com/freeCodeCamp/status/1923106716620554607
+https://x.com/freeCodeCamp/status/1923409433079480434
+https://www.youtube.com/watch?v=jgpVdJB2sKQ
+https://youtu.be/eiC58R16hb8?si=cUINZr9i7JDmfrCM
+https://x.com/freeCodeCamp/status/1923831205855736203
+https://x.com/techopsexamples/status/1923960511529615829
+https://www.youtube.com/watch?v=RRkMxy1vGd4
+--------------
