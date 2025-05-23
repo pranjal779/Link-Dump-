@@ -1,3 +1,14 @@
+https://x.com/govardhana_mk/status/1924117903508701368
+https://x.com/govardhana_mk/status/1923756151742791927
+https://x.com/Python_Dv/status/1924155523529867382
+https://x.com/systemdesignone/status/1923714650165686602
+https://x.com/Python_Dv/status/1924201072626651369
+https://x.com/xmodulo/status/1924092470075240560
+https://www.youtube.com/watch?v=hWRRdICvMNs&t=194s&pp=ygUZYXBpIGdhdGV3YXkgYXdzIGV4cGxhaW5lZA%3D%3D
+https://x.com/miyashin_prg/status/1924231423122460879
+
+
+
 25 Blogs to Learn 25 AWS Concepts:
 
 1) API Gateway: https://techopsexamples.com/p/architecture-overcome-api-gateway-pay-load-limit
