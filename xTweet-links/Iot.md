@@ -1,3 +1,9 @@
+https://x.com/alexxubyte/status/1926308392575877157
+https://x.com/Python_Dv/status/1926322552814576017
+https://x.com/freeCodeCamp/status/1926730320910402003
+
+
+
 https://x.com/govardhana_mk/status/1924117903508701368
 https://x.com/govardhana_mk/status/1923756151742791927
 https://x.com/Python_Dv/status/1924155523529867382
